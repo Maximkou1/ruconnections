@@ -11,6 +11,12 @@ Evaluation results:
 
 ![User Rating](https://github.com/Maximkou1/ruconnections/raw/master/images/ruconnections_rating.png)
 
+
+![User Average Mistake](https://github.com/Maximkou1/ruconnections/raw/master/images/ruconnections_average_mistake.png)
+
+
+![User Mistake Distribution](https://github.com/Maximkou1/ruconnections/raw/master/images/ruconnections_mistake_distribution.png)
+
 Used datasets:
 * RuWordNet — https://ruwordnet.ru/ru
 * KartaSlov — https://github.com/dkulagin/kartaslov
