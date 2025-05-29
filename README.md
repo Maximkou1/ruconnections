@@ -1,6 +1,8 @@
 # ruconnections
 Pipelines for generation NYT Connections categories in Russian language.
 
+Web-site - https://maximkou1.github.io
+
 ## Implemented pipelines:
 * Dataset (intentional overlap & false group)
 * LLM (intentional overlap & false group)
